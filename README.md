@@ -89,4 +89,8 @@ Thank you for using the Library Management System. Goodbye!
 
 ## SCREENSHOTS:
 **mg1**
+![praveen1](https://github.com/user-attachments/assets/7cb4495f-397b-458d-855e-49b60a71effa) 
+
+**mg2**
+![praveen2](https://github.com/user-attachments/assets/0d98f536-4f8c-4fa0-9517-181f81bcb642)
 
